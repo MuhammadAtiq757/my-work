@@ -58,9 +58,19 @@ margin-top: 24px;
     margin-top: 24px;
 }
 .content-list-items ul li{
+    
     margin-top: 16px;
     color: rgb(139, 136, 136);
     margin-left: 14px;
+    list-style: none;
+    padding-left: 5px;}
+
+
+.content-list-items ul li img{
+
+   height: 25px;
+  margin-top: 3px;
+  align-items: center; 
 }
 
 .content-list-items ul{
