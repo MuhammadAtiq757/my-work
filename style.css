@@ -111,17 +111,21 @@ margin-top: 24px;
 .keep-positive{
 
     width: 80%;
-    height: 200px;
+    height: 170px;
     border-radius: 10px;
-   margin: 50px 100px;
-    padding: 130px 0 0 70px;
-    
-
-    background: linear-gradient(135deg, rgb(81, 196, 92) 40%, rgba(187, 221, 51, 0.634));
+    margin: 50px 100px;
+    margin-right: 15px;
+    padding: 130px 0 0 70px;  
+    background:url(images/watch.png), linear-gradient(90deg, rgba(25, 149, 221, 0.946) 40%, rgba(212, 227, 148, 0.209));
     background-blend-mode: overlay;
 
 }
 
+
+.posetive-mind{
+
+    color: white;
+}
 
 
 /* footer section */
